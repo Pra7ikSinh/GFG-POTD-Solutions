@@ -1,14 +1,11 @@
-/*
+/*******************************************************************
 
-Author : Manas Rawat
+Author : Pra7iksinh Parmar
 Date : 21/12/2023
 Problem : Candy
-Difficulty : Hard
 Problem Link : https://www.geeksforgeeks.org/problems/candy/1
-Video Solution : https://youtu.be/bqWHPw1S57c
 
-*/
-
+************************************************************************/
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
