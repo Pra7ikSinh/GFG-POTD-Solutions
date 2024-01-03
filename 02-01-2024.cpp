@@ -3,7 +3,6 @@
 Author : Pra7iksinh Parmar
 Date : 02/01/2024
 Problem : Largest Sum Subarray of Size at least K
-Difficulty : Medium
 Problem Link : https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1
 
 ************************************************************************/
