@@ -1,12 +1,13 @@
 
-/*******************************************************************
+/***************************************************************************************************************************************
 
-Author : Pra7iksinh Parmar
+Dev : Pra7iksinh Parmar
 Date : 29/12/2023
 Problem : Check if a string is repetition of its substring of k-length
 Problem Link : https://www.geeksforgeeks.org/problems/check-if-a-string-is-repetition-of-its-substring-of-k-length3302/1
 
-************************************************************************/
+********************************************************************************************************************************/
+
 
 
 //{ Driver Code Starts

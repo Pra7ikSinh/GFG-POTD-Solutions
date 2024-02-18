@@ -1,7 +1,7 @@
 """
 *******************************************************************
 
-Author : Pra7iksinh Parmar
+Dev : Pra7iksinh Parmar
 Date :  08/01/2024
 Problem : Search Pattern (KMP-Algorithm)
 Problem Link : https://www.geeksforgeeks.org/problems/search-pattern0205/1

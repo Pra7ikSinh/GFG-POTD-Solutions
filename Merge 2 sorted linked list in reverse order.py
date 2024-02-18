@@ -1,7 +1,7 @@
 """
 *******************************************************************
 
-Author : Pra7iksinh Parmar
+Dev : Pra7iksinh Parmar
 Date :  08/01/2024
 Problem : Merge 2 sorted linked list in reverse order 
 Problem Link : https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1
